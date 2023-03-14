@@ -1,0 +1,21 @@
+body{
+    font-family: "Dancing Script";
+    align-items: center;
+    background-color: #393E40;
+    color: rgb(77, 201, 160);
+}
+
+h1, h2{
+    font-family: 'Dancing Script', cursive;
+}
+
+h1{
+    font-size: 200px;
+    padding: 50px ;
+}
+
+/*container*/
+
+.container-fluid{
+    padding: 7% 15%;
+}
